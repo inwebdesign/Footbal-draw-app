@@ -11,7 +11,6 @@ teamOne.style.color = '#fff';
 var teamTwo = document.getElementById('timDrugi');
 var pic = document.getElementById('picture');
 var pic1 = document.getElementById('pictureJedan');
-var slike = ['koki','markos','ivke'];
 var tim = [];
 var tim1 = [];
 var counter = 10;
